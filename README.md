@@ -32,7 +32,7 @@ Para quem curte uma rede social, segue meu perfil em [português](https://www.li
 
 ## Certificações
 
-[![badge](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/6f622199-d906-4f83-8b0a-29ac7518b0d9/public_url) [![badge](https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](https://www.credly.com/badges/9a2b7238-718e-4df2-9bf5-a987f3889206/linked_in_profile)
+[![badge](https://images.credly.com/size/68x68/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/6f622199-d906-4f83-8b0a-29ac7518b0d9/public_url) [![badge](https://images.credly.com/size/68x68/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](https://www.credly.com/badges/9a2b7238-718e-4df2-9bf5-a987f3889206/linked_in_profile)
 
 <!-- Redes Sociais -->
 <!--h2 without bottom border-->
