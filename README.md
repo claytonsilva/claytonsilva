@@ -40,7 +40,10 @@ Para quem curte uma rede social, segue meu perfil em [português](https://www.li
 
 <a href="https://github.com/claytonsilva/nodejs-hexagonal-boilerplate">
   <img align="center" src="https://github-readme-stats-beta-ashy.vercel.app/api/pin/?username=claytonsilva&repo=nodejs-hexagonal-boilerplate&show_icons=true&theme=transparent" />
-</a>  
+</a>
+<a href="https://github.com/claytonsilva/terraform-aws-rabbitmq-ec2">
+  <img align="center" src="https://github-readme-stats-beta-ashy.vercel.app/api/pin/?username=claytonsilva&repo=terraform-aws-rabbitmq-ec2&show_icons=true&theme=transparent" />
+</a>
 
 ## Certificações
 
