@@ -74,9 +74,13 @@ Compartilhar conhecimento é meu pilar mais importante, onde costumo sempre me p
 - [Git, da necessidade a automação de sua release (parte 1)](https://medium.com/trainingcenter/git-da-necessidade-a-automa%C3%A7%C3%A3o-de-sua-release-parte-1-a9d697e8f9ee)
 - [Git, da necessidade a automação de sua release (parte 2)](https://medium.com/trainingcenter/git-da-necessidade-a-automa%C3%A7%C3%A3o-de-sua-release-parte-2-410b95c6d7cf)
 - [Porque devo me importar com DevOps?](https://medium.com/@claytonssilva/porque-devo-me-importar-com-devops-3f1f69e5f8fc)
-- [Arquitetura Hexagonal com Nodejs](https://github.com/hex-js/nodejs-hexagonal-boilerplate)
+- [Arquitetura Hexagonal com Nodejs](https://github.com/hex-js/nodejs-hexagonal-boilerplate)\
+- [Servindo 1MM de mensagens simultâneas com RabbitMQ](https://medium.com/gbtech/servindo-1mm-de-mensagens-simult%C3%A2neas-com-rabbitmq-21c09fbad2e0)
+- [De Collections a flatten, andando pela estrada de tijolos amarelos do Terraform](https://cavaleiro.dev/de-collections-a-flatten-andando-pela-estrada-de-tijolos-amarelos-do-terraform-6e65f33492f7)
 
 ## Certificações
 
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/6f622199-d906-4f83-8b0a-29ac7518b0d9/public_url)
 - [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/badges/9a2b7238-718e-4df2-9bf5-a987f3889206/linked_in_profile)
+- [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/7c4b4d8a-c214-4f18-be13-a5499427db70/public_url)
+- [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/055097a6-1af5-41c4-926c-95a1dc954b02/public_url)

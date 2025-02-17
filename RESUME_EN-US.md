@@ -65,7 +65,7 @@ Share knowledge is my favorite value pillar. I usually worry in how to better re
     - [GPM](https://gpmp.com.br/)
   - In the solutions where I was responsible, I guaranteed SLA above 99% for all deliveries, automated pipeline in deliveries, and infrastructure as terraform code in all of them. I made highly available architectures with asynchronous architecture as default communication, using best practices using [AWS's Well Architected best practices](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 
-## Menções e Publicações
+## Mentions and Publications
 
 - [Aplicativo do Governo do ES conquista prêmio nacional de TI](https://prodest.es.gov.br/Not%C3%ADcia/aplicativo-do-governo-do-es-conquista-premio-nacional-de-ti)
 - [Understand Service Discovery](https://medium.com/trainingcenter/entendendo-orquestradores-parte-1-service-discovery-4219d604335c)
@@ -73,8 +73,12 @@ Share knowledge is my favorite value pillar. I usually worry in how to better re
 - [Git, from the need to automating your release (part 2)](https://medium.com/trainingcenter/git-da-necessidade-a-automa%C3%A7%C3%A3o-de-sua-release-parte-2-410b95c6d7cf)
 - [Why should I care about DevOps?](https://medium.com/@claytonssilva/porque-devo-me-importar-com-devops-3f1f69e5f8fc)
 - [Hexagonal architecture with Nodejs](https://github.com/hex-js/nodejs-hexagonal-boilerplate)
+- [Servindo 1MM de mensagens simultâneas com RabbitMQ](https://medium.com/gbtech/servindo-1mm-de-mensagens-simult%C3%A2neas-com-rabbitmq-21c09fbad2e0)
+- [De Collections a flatten, andando pela estrada de tijolos amarelos do Terraform](https://cavaleiro.dev/de-collections-a-flatten-andando-pela-estrada-de-tijolos-amarelos-do-terraform-6e65f33492f7)
 
-## Certificações
+## Certifications
 
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/6f622199-d906-4f83-8b0a-29ac7518b0d9/public_url)
 - [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/badges/9a2b7238-718e-4df2-9bf5-a987f3889206/linked_in_profile)
+- [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/7c4b4d8a-c214-4f18-be13-a5499427db70/public_url)
+- [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/055097a6-1af5-41c4-926c-95a1dc954b02/public_url)
