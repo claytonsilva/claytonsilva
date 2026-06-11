@@ -39,6 +39,9 @@ em [inglês](https://github.com/claytonsilva/claytonsilva/blob/main/RESUME_EN-US
 <a href="https://github.com/catdevsecops/home-automated-infrastructure">
   <img align="center" src="https://github-readme-stats-beta-ashy.vercel.app/api/pin/?username=catdevsecops&repo=home-automated-infrastructure&show_icons=true&theme=transparent" />
 </a>
+<a href="https://github.com/catdevsecops/solarz-homeassistant-api-wrapper">
+  <img align="center" src="https://github-readme-stats-beta-ashy.vercel.app/api/pin/?username=catdevsecops&repo=solarz-homeassistant-api-wrapper&show_icons=true&theme=transparent" />
+</a>
 
 ## Certificações
 
