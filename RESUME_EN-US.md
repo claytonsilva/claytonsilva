@@ -41,9 +41,9 @@ Share knowledge is my favorite value pillar. I usually worry in how to better re
 ## Experience
 
 - Grupo Boticário - DevOps Specialist (sept/2021 until now)
-  
   - Specialist responsible for new deliveries and rollout of critical environments, preparing rollout planning and analyzing single points of failure in the process.
   - Elaboration of improvements in a Kubernetes scenario in production with a pipeline responsible for dozens of daily deploys.
+
 - Pagar.me (jul/2017 until aug/2021)
   - as a Software Engineer (DevOps Engineer Sr.)
     - Responsible along with the team throughout the new process of continuous integration and continuous delivery, using the new AWS serverless container platform (ECS Fargate).
