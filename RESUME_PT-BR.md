@@ -42,9 +42,9 @@ Compartilhar conhecimento é meu pilar mais importante, onde costumo sempre me p
 ## Experiência
 
 - Grupo Boticário - DevOps Specialist (setembro de 2021 até o momento)
-  
   - Especialista responsável por novas entregas e virada de ambientes críticos, elaborando planejamento de rollout e analisando pontos únicos de falha no processo.
   - Elaboração de melhorias em cenário de kubernetes em produção com pipeline responsável por dezenas de deploys diários.
+
 - Pagar.me (julho de 2017 até agosto de 2021)
   - como Engenheiro de software (DevOps Engineer Sr.)
     - Responsável junto com a equipe em todo o processo novo de integração contínua e entrega contínua, usando a nova plataforma serverless container da AWS (ECS Fargate).
